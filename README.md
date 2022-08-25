@@ -48,7 +48,7 @@
 >2. 通过**图解**来使得笔记尽量通俗易懂
 >3. 附带课程编程作业的**代码实现**
 
-课程视频共五大课，没课有三到四个小节，每节视频大概可以用一周时间学习，预计三～四个月可以学习完毕。
+课程视频共五大课，十五小节，每个小节的视频大概可以用一周时间学习，预计三～四个月可以学习完毕。
 
 本项目所用徽章来自互联网，如侵犯了您的图片版权请联系我们删除，谢谢。
 并且由于我们的水平有限，有任何问题和错误请批评指正，谢谢。
@@ -60,10 +60,10 @@
 ## <img src="./imgs/icon/resource.png" width="25" /> 课程资源
 
 - [吴恩达深度学习课程第一课：深度学习和神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_source=9dcc3801def980fa2c8938196ab81fea)
-- [吴恩达深度学习课程第二课](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_shttps://www.bilibili.com/video/av66524657?vd_source=9dcc3801def980fa2c8938196ab81fea)
-- [吴恩达深度学习课程第三课](https://www.bilibili.com/video/av66644404?vd_source=9dcc3801def980fa2c8938196ab81fea)
-- [吴恩达深度学习课程第四课](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_shttps://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea)
-- [吴恩达深度学习课程第五课](https://www.bilibili.com/video/av66647398?vd_source=9dcc3801def980fa2c8938196ab81fea)
+- [吴恩达深度学习课程第二课：改善神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_shttps://www.bilibili.com/video/av66524657?vd_source=9dcc3801def980fa2c8938196ab81fea)
+- [吴恩达深度学习课程第三课：结构机器学习项目](https://www.bilibili.com/video/av66644404?vd_source=9dcc3801def980fa2c8938196ab81fea)
+- [吴恩达深度学习课程第四课：卷积神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_shttps://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea)
+- [吴恩达深度学习课程第五课：序列模型](https://www.bilibili.com/video/av66647398?vd_source=9dcc3801def980fa2c8938196ab81fea)
 
 ## <img src="./imgs/icon/notes.png" width="25" /> 笔记
 
@@ -73,10 +73,10 @@
 
 | 章节                             | 视频                                                         | 笔记                                                         |
 | :------------------------------------- | :----------------------------------------------------------- | -------------------------------------- |
-| 第一周：深度学习概论 | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773">  <img src="./imgs/cover/00.png"  width="170" /></a> | 深度学习概论 |
-| 第二周：神经网络基础            | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29EGPP">  <img src="./imgs/cover/01.png"  width="170" /></a> | 神经网络基础 |
-| 第三周：浅层神经网络         | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO">  <img src="./imgs/cover/02.png"  width="170" /></a> | 浅层神经网络 |
-| 第四周：深层神经网络          | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29F33S">  <img src="./imgs/cover/03.png"  width="170" /></a> | 深层神经网络 |
+| 第一周：深度学习概论 | <a href="https://www.bilibili.com/video/av66314465?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/00.png"  width="170" /></a> | 深度学习概论 |
+| 第二周：神经网络基础            | <a href="https://www.bilibili.com/video/BV164411m79z?p=7&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/01.png"  width="170" /></a> | 神经网络基础 |
+| 第三周：浅层神经网络         | <a href="https://www.bilibili.com/video/BV164411m79z?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/02.png"  width="170" /></a> | 浅层神经网络 |
+| 第四周：深层神经网络          | <a href="https://www.bilibili.com/video/BV164411m79z?p=36&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/03.png"  width="170" /></a> | 深层神经网络 |
 
 - 课后作业：
 - 编程作业：
@@ -87,11 +87,11 @@
 
 - 视频和笔记
 
-| 章节                                  | 视频                                                         | 笔记                          |
-| :------------------------------------ | ------------------------------------------------------------ | :---------------------------- |
-| 第一周：深度学习的实用层面            | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773">  <img src="./imgs/cover/00.png"  width="170" /></a> | 深度学习的实用层面            |
-| 第二周：优化算法                      | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29EGPP">  <img src="./imgs/cover/01.png"  width="170" /></a> | 优化算法                      |
-| 第三周：超参数优化、batch正则化、框架 | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO">  <img src="./imgs/cover/02.png"  width="170" /></a> | 超参数优化、batch正则化、框架 |
+| 章节                               | 视频                                                         | 笔记                       |
+| :--------------------------------- | ------------------------------------------------------------ | :------------------------- |
+| 第一周：深度学习的实用层面         | <a href="https://www.bilibili.com/video/av66524657?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/04.png"  width="170" /></a> | 深度学习的实用层面         |
+| 第二周：优化算法                   | <a href="https://www.bilibili.com/video/BV1V441127zE?p=15&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/05.png"  width="170" /></a> | 优化算法                   |
+| 第三周：超参数调试、正则化以及优化 | <a href="https://www.bilibili.com/video/BV1V441127zE?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/07.png"  width="170" /></a> | 超参数调试、正则化以及优化 |
 
 - 课后作业：
 
@@ -99,13 +99,14 @@
 
 
 
-**第三课：结构化机器学习项目**
+**第三课：结构机器学习项目**
 
 - 视频和笔记
 
-| 章节                     | 视频                                                         | 笔记         |
-| :----------------------- | ------------------------------------------------------------ | :----------- |
-| 第一、二周：机器学习策略 | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773">  <img src="./imgs/cover/00.png"  width="170" /></a> | 机器学习策略 |
+| 章节                       | 视频                                                         | 笔记         |
+| :------------------------- | ------------------------------------------------------------ | :----------- |
+| 第一周：机器学习策略（上） | <a href="https://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/06.png"  width="170" /></a> | 机器学习策略 |
+| 第二周：机器学习策略（下） | <a href="https://www.bilibili.com/video/BV1f4411C7Nx?p=13&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/08.png"  width="170" /></a> | 机器学习策略 |
 
 - 课后作业：
 
@@ -119,10 +120,10 @@
 
 | 章节                           | 视频                                                         | 笔记                   |
 | :----------------------------- | ------------------------------------------------------------ | :--------------------- |
-| 第一周：卷积神经网络           | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773">  <img src="./imgs/cover/00.png"  width="170" /></a> | 卷积神经网络           |
-| 第二周：深度卷积网络：实例探究 | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29EGPP">  <img src="./imgs/cover/01.png"  width="170" /></a> | 深度卷积网络：实例探究 |
-| 第三周：目标检测               | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO">  <img src="./imgs/cover/02.png"  width="170" /></a> | 目标检测               |
-| 第四周：人脸识别               | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29F33S">  <img src="./imgs/cover/03.png"  width="170" /></a> | 人脸识别               |
+| 第一周：卷积神经网络           | <a href="https://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/09.png"  width="170" /></a> | 卷积神经网络           |
+| 第二周：深度卷积网络：实例探究 | <a href="https://www.bilibili.com/video/BV1F4411y7o7?p=12&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/10.png"  width="170" /></a> | 深度卷积网络：实例探究 |
+| 第三周：目标检测               | <a href="https://www.bilibili.com/video/BV1F4411y7o7?p=23&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/11.png"  width="170" /></a> | 目标检测               |
+| 第四周：人脸识别               | <a href="https://www.bilibili.com/video/BV1F4411y7o7?p=33&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/12.png"  width="170" /></a> | 人脸识别               |
 
 - 课后作业：
 
@@ -136,9 +137,9 @@
 
 | 章节                         | 视频                                                         | 笔记                 |
 | :--------------------------- | ------------------------------------------------------------ | :------------------- |
-| 第一周：循环序列模型         | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773">  <img src="./imgs/cover/00.png"  width="170" /></a> | 循环序列模型         |
-| 第二周：自然语言处理与词嵌入 | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29EGPP">  <img src="./imgs/cover/01.png"  width="170" /></a> | 自然语言处理与词嵌入 |
-| 第三周：序列模型和注意力机制 | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO">  <img src="./imgs/cover/02.png"  width="170" /></a> | 序列模型和注意力机制 |
+| 第一周：循环序列模型         | <a href="https://www.bilibili.com/video/av66647398?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/13.png"  width="170" /></a> | 循环序列模型         |
+| 第二周：自然语言处理与词嵌入 | <a href="https://www.bilibili.com/video/BV1F4411y7BA?p=13&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/14.png"  width="170" /></a> | 自然语言处理与词嵌入 |
+| 第三周：序列模型和注意力机制 | <a href="https://www.bilibili.com/video/BV1F4411y7BA?p=23&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/15.png"  width="170" /></a> | 序列模型和注意力机制 |
 
 - 课后作业：
 
@@ -147,12 +148,12 @@
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目的组织
 
-<a href="https://github.com/KB-Ding">  <img src="./imgs/profile/kunbo_ding.png"  width="80" /></a> 
+<a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
 
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
-  <a href="https://github.com/awake020"><img src="./imgs/profile/fuxuan_wei.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
+  <a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
 
 
 
