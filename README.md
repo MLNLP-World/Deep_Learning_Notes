@@ -73,13 +73,13 @@
 
 | 章节                             | 视频                                                         | 笔记                                                         |
 | :------------------------------------- | :----------------------------------------------------------- | -------------------------------------- |
-| 第一周：深度学习概论 | <a href="https://www.bilibili.com/video/av66314465?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/00.png"  width="170" /></a> | 深度学习概论 |
-| 第二周：神经网络基础            | <a href="https://www.bilibili.com/video/BV164411m79z?p=7&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/01.png"  width="170" /></a> | 神经网络基础 |
-| 第三周：浅层神经网络         | <a href="https://www.bilibili.com/video/BV164411m79z?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/02.png"  width="170" /></a> | 浅层神经网络 |
-| 第四周：深层神经网络          | <a href="https://www.bilibili.com/video/BV164411m79z?p=36&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/03.png"  width="170" /></a> | 深层神经网络 |
+| 第一周：深度学习概论 | <a href="https://www.bilibili.com/video/av66314465?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/00.png"  width="170" /></a> | [深度学习概论](./notes/COURSE1-神经网络和深度学习/第一周-深度学习概论.md) |
+| 第二周：神经网络基础            | <a href="https://www.bilibili.com/video/BV164411m79z?p=7&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/01.png"  width="170" /></a> | [神经网络基础](./notes/COURSE1-神经网络和深度学习/第二周-神经网络基础.md) |
+| 第三周：浅层神经网络         | <a href="https://www.bilibili.com/video/BV164411m79z?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/02.png"  width="170" /></a> | [浅层神经网络](./notes/COURSE1-神经网络和深度学习/第三周-浅层神经网络.md) |
+| 第四周：深层神经网络          | <a href="https://www.bilibili.com/video/BV164411m79z?p=36&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/03.png"  width="170" /></a> | [深层神经网络](./notes/COURSE1-神经网络和深度学习/第四周-深层神经网络.md) |
 
-- 课后作业：
-- 编程作业：
+- [课后作业](./notes/COURSE1-神经网络和深度学习/课后作业.md)
+- [编程作业](./codes/course1)
 
 
 
