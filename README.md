@@ -11,14 +11,14 @@
   <a >
        <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
   	</a>
-   	<a href="https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/stargazers">
-       <img alt="stars" src="https://img.shields.io/github/stars/ML-NLPChina/MIT-Linear-Algebra-Notes" />
+   	<a href="https://github.com/JoeYing1019/Machine_Learning_Notes/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/JoeYing1019/Machine_Learning_Notes" />
   	</a>
-  	<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/network/members">
-       <img alt="FORK" src="https://img.shields.io/github/forks/ML-NLPChina/MIT-Linear-Algebra-Notes?color=FF8000" />
+  	<a href="https://github.com/JoeYing1019/Machine_Learning_Notes/fork">
+       <img alt="FORK" src="https://img.shields.io/github/forks/JoeYing1019/Machine_Learning_Notes?color=FF8000" />
   	</a>
-    <a href="https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/ML-NLPChina/MIT-Linear-Algebra-Notes?color=0088ff"/>
+    <a href="https://github.com/JoeYing1019/Machine_Learning_Notes/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/JoeYing1019/Machine_Learning_Notes?color=0088ff"/>
     </a>
     <br />
 </p>
@@ -32,6 +32,7 @@
   <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%B4%A1%E7%8C%AE%E8%80%85">贡献者</a>
 </p>
 </div>
+
 
 
 
