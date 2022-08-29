@@ -68,83 +68,148 @@
 
 ## <img src="./imgs/icon/notes.png" width="25" /> 笔记
 
-**第一课：深度学习和神经网络**
-
-- 视频和笔记
-
-| 章节                             | 视频                                                         | 笔记                                                         |
-| :------------------------------------- | :----------------------------------------------------------- | -------------------------------------- |
-| 第一周：深度学习概论 | <a href="https://www.bilibili.com/video/av66314465?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/00.png"  width="170" /></a> | [深度学习概论](./notes/COURSE1-神经网络和深度学习/第一周-深度学习概论.md) |
-| 第二周：神经网络基础            | <a href="https://www.bilibili.com/video/BV164411m79z?p=7&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/01.png"  width="170" /></a> | [神经网络基础](./notes/COURSE1-神经网络和深度学习/第二周-神经网络基础.md) |
-| 第三周：浅层神经网络         | <a href="https://www.bilibili.com/video/BV164411m79z?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/02.png"  width="170" /></a> | [浅层神经网络](./notes/COURSE1-神经网络和深度学习/第三周-浅层神经网络.md) |
-| 第四周：深层神经网络          | <a href="https://www.bilibili.com/video/BV164411m79z?p=36&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/03.png"  width="170" /></a> | [深层神经网络](./notes/COURSE1-神经网络和深度学习/第四周-深层神经网络.md) |
-
-- [课后作业](./notes/COURSE1-神经网络和深度学习/课后作业.md)
-- [编程作业](./codes/course1)
-
-
-
-**第二课：改善神经网络**
-
-- 视频和笔记
-
-| 章节                               | 视频                                                         | 笔记                                                         |
-| :--------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 第一周：深度学习的实用层面         | <a href="https://www.bilibili.com/video/av66524657?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/04.png"  width="170" /></a> | [深度学习的实用层面](./notes/COURSE2-改善神经网络/第一周-深度学习的实用层面.md) |
-| 第二周：优化算法                   | <a href="https://www.bilibili.com/video/BV1V441127zE?p=15&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/05.png"  width="170" /></a> | [优化算法](./notes/COURSE2-改善神经网络/第二周-优化算法.md)  |
-| 第三周：超参数调试、正则化以及优化 | <a href="https://www.bilibili.com/video/BV1V441127zE?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/07.png"  width="170" /></a> | [超参数调试、正则化以及优化](./notes/COURSE2-改善神经网络/超参数调试、正则化以及优化.md) |
-
-- [课后作业](./notes/COURSE2-改善神经网络/课后作业.md)
-
-- [编程作业](./codes/course2)
-
-
-
-**第三课：结构机器学习项目**
-
-- 视频和笔记
-
-| 章节                       | 视频                                                         | 笔记                                                         |
-| :------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 第一周：机器学习策略（上） | <a href="https://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/06.png"  width="170" /></a> | [机器学习策略](./notes/COURSE3-结构化机器学习项目/机器学习策略.md) |
-| 第二周：机器学习策略（下） | <a href="https://www.bilibili.com/video/BV1f4411C7Nx?p=13&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/08.png"  width="170" /></a> | [机器学习策略](./notes/COURSE3-结构化机器学习项目/机器学习策略.md) |
-
-- [课后作业](./notes/COURSE3-结构化机器学习项目/课后作业.md)
-
-- [编程作业](./codes/course3)
-
-
-
-**第四课：卷积神经网络**
-
-- 视频和笔记
-
-| 章节                           | 视频                                                         | 笔记                                                         |
-| :----------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 第一周：卷积神经网络           | <a href="https://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/09.png"  width="170" /></a> | [卷积神经网络](./notes/COURSE4-卷积神经网络/第一周-卷积神经网络.md) |
-| 第二周：深度卷积网络：实例探究 | <a href="https://www.bilibili.com/video/BV1F4411y7o7?p=12&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/10.png"  width="170" /></a> | [深度卷积网络：实例探究](./notes/COURSE4-卷积神经网络/第二周-深度卷积网络：实例探究.md) |
-| 第三周：目标检测               | <a href="https://www.bilibili.com/video/BV1F4411y7o7?p=23&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/11.png"  width="170" /></a> | [目标检测](./notes/COURSE4-卷积神经网络/第三周-目标检测.md)  |
-| 第四周：人脸识别               | <a href="https://www.bilibili.com/video/BV1F4411y7o7?p=33&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/12.png"  width="170" /></a> | [人脸识别](./notes/COURSE4-卷积神经网络/第四周-人脸识别.md)  |
-
-- [课后作业](./notes/COURSE4-卷积神经网络/课后作业.md)
-
-- [编程作业](./codes/course4)
-
-
-
-**第五课：序列模型**
-
-- 视频和笔记
-
-| 章节                         | 视频                                                         | 笔记                                                         |
-| :--------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 第一周：循环序列模型         | <a href="https://www.bilibili.com/video/av66647398?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/13.png"  width="170" /></a> | [循环序列模型](./notes/COURSE5-序列模型/第一周-循环序列模型.md) |
-| 第二周：自然语言处理与词嵌入 | <a href="https://www.bilibili.com/video/BV1F4411y7BA?p=13&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/14.png"  width="170" /></a> | [自然语言处理与词嵌入](./notes/COURSE5-序列模型/第二周-自然语言处理与词嵌入.md) |
-| 第三周：序列模型和注意力机制 | <a href="https://www.bilibili.com/video/BV1F4411y7BA?p=23&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/15.png"  width="170" /></a> | [序列模型和注意力机制](./notes/COURSE5-序列模型/第三周-序列模型和注意力机制.md) |
-
-- [课后作业](./notes/COURSE5-序列模型/课后作业.md)
-
-- [编程作业](./codes/course5)
+<table>
+	<tr>
+	    <th>课程</th>
+	    <th> 小节 </th>
+	    <th>视频</th>
+        <th>笔记</th>
+	</tr >
+	<tr >
+	    <td rowspan="6">第一课：深度学习和神经网络</td>
+       <td>第一周：深度学习概论 </td>
+	    <td><a href="https://www.bilibili.com/video/av66314465?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/00.png"  width="170" /></td>
+	    <td><a href="./pdf_notes/COURSE1-神经网络和深度学习/第一周-深度学习概论.pdf">深度学习概论</a></td>
+	</tr>
+	<tr>
+	    <td>第二周-神经网络基础</td>
+	    <td><a href="https://www.bilibili.com/video/BV164411m79z?p=7&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/01.png"  width="170" /></a></td>
+	    <td><a href="./pdf_notes/COURSE1-神经网络和深度学习/第二周-神经网络基础.pdf">神经网络基础</a></td>
+</tr>
+<tr>
+    <td>第三周-浅层神经网络</td>
+    <td><a href="https://www.bilibili.com/video/BV164411m79z?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/02.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE1-神经网络和深度学习/第三周-浅层神经网络.pdf">浅层神经网络</a></td>
+  </tr>
+<tr>
+    <td>第四周-深层神经网络</td>
+    <td><a href="https://www.bilibili.com/video/BV164411m79z?p=36&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/03.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE1-神经网络和深度学习/第四周-深层神经网络.pdf">深层神经网络</a></td>
+ </tr>
+ <tr>
+    <td>课后作业</td>
+    <td></td>
+    <td><a href="./notes/COURSE1-神经网络和深度学习/课后作业.md">课后作业</a></td>
+  </tr>
+   <tr>
+    <td> 编程作业</td>
+    <td></td>
+    <td><a href="./codes/course1">编程作业</a></td>
+  </tr>
+  <tr >
+	    <td rowspan="5">第二课：改善神经网络</td>
+       <td>第一周：深度学习的实用层面 </td>
+	    <td><a href="https://www.bilibili.com/video/av66524657?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/04.png"  width="170" /></a></td>
+	    <td><a href="./pdf_notes/COURSE2-改善神经网络/第一周：深度学习的实用层面.pdf">深度学习的实用层面</a></td>
+	</tr>
+  <tr>
+    <td>第二周：优化算法</td>
+    <td><a href="https://www.bilibili.com/video/BV1V441127zE?p=15&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/05.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE2-改善神经网络/第二周：优化算法.pdf">优化算法</a></td>
+  </tr>
+   <tr>
+    <td>第三周：超参数调试、正则化以及优化</td>
+    <td><a href="https://www.bilibili.com/video/BV1V441127zE?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/07.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE2-改善神经网络/第三周：超参数调试、正则化以及优化.pdf">超参数调试、正则化以及优化</a></td>
+  </tr>
+   <tr>
+    <td>课后作业</td>
+    <td></td>
+    <td><a href="./notes/COURSE2-改善神经网络/课后作业.md">课后作业</a></td>
+  </tr>
+   <tr>
+    <td> 编程作业</td>
+    <td></td>
+    <td><a href="./codes/course2">编程作业</a></td>
+  </tr>
+   <tr >
+	    <td rowspan="4">第三课：结构化机器学习项目</td>
+       <td>第一周：机器学习策略（上） </td>
+	    <td><a href="https://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/06.png"  width="170" /></a></td>
+	    <td><a href="./pdf_notes/COURSE3-结构化机器学习项目/机器学习策略.pdf">机器学习策略</a></td>
+</tr>
+  <tr>
+    <td>第二周：机器学习策略（下）</td>
+    <td><a href="https://www.bilibili.com/video/BV1f4411C7Nx?p=13&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/08.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE3-结构化机器学习项目/机器学习策略.pdf">机器学习策略</a></td>
+  </tr>
+   <tr>
+    <td>课后作业</td>
+    <td></td>
+    <td><a href="./notes/COURSE3-结构化机器学习项目/课后作业.md">课后作业</a></td>
+  </tr>
+   <tr>
+    <td> 编程作业</td>
+    <td></td>
+    <td><a href="./codes/course3">编程作业</a></td>
+  </tr>
+  <tr >
+	    <td rowspan="6">第四课：卷积神经网络</td>
+       <td>第一周：卷积神经网络 </td>
+	    <td><a href="https://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/09.png"  width="170" /></a></td>
+	    <td><a href="./pdf_notes/COURSE4-卷积神经网络/第一周-卷积神经网络.pdf">卷积神经网络</a></td>
+</tr>
+  <tr>
+    <td>第二周：深度卷积网络：实例探究 </td>
+    <td><a href="https://www.bilibili.com/video/BV1F4411y7o7?p=12&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/10.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE4-卷积神经网络/第二周-深度卷积网络：实例探究.pdf">深度卷积网络：实例探究</a></td>
+  </tr>
+  <tr >
+       <td>第三周：目标检测 </td>
+	    <td><a href="https://www.bilibili.com/video/BV1F4411y7o7?p=23&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/11.png"  width="170" /></a></td>
+	    <td><a href="./pdf_notes/COURSE4-卷积神经网络/第三周-目标检测.pdf">目标检测</a></td>
+</tr>
+  <tr>
+    <td>第四周：人脸识别 </td>
+    <td><a href="https://www.bilibili.com/video/BV1F4411y7o7?p=33&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/12.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE4-卷积神经网络/第四周-人脸识别.pdf">人脸识别</a></td>
+  </tr>
+   <tr>
+    <td>课后作业</td>
+    <td></td>
+    <td><a href="./notes/COURSE4-卷积神经网络/课后作业.md">课后作业</a></td>
+  </tr>
+   <tr>
+    <td> 编程作业</td>
+    <td></td>
+    <td><a href="./codes/course4">编程作业</a></td>
+  </tr>
+ <tr >
+	    <td rowspan="5">第五课：序列模型</td>
+       <td>第一周：循环序列模型 </td>
+	    <td><a href="https://www.bilibili.com/video/av66647398?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/13.png"  width="170" /></a></td>
+	    <td><a href="./pdf_notes/COURSE5-序列模型/第一周-循环序列模型.pdf">循环序列模型</a></td>
+</tr>
+  <tr>
+    <td>第二周：自然语言处理与词嵌入 </td>
+    <td><a href="https://www.bilibili.com/video/BV1F4411y7BA?p=13&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/14.png"  width="170" /></a></td>
+    <td><a href="./pdf_notes/COURSE5-序列模型/第二周：自然语言处理与词嵌入.pdf">自然语言处理与词嵌入</a></td>
+  </tr>
+  <tr >
+       <td>第三周：序列模型和注意力机制 </td>
+	    <td><a href="https://www.bilibili.com/video/BV1F4411y7BA?p=23&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/15.png"  width="170" /></a></td>
+	    <td><a href="./pdf_notes/COURSE5-序列模型/第三周：序列模型和注意力机制.pdf">序列模型和注意力机制</a></td>
+</tr>
+   <tr>
+    <td>课后作业</td>
+    <td></td>
+    <td><a href="./notes/COURSE5-序列模型/课后作业.md">课后作业</a></td>
+  </tr>
+   <tr>
+    <td> 编程作业</td>
+    <td></td>
+    <td><a href="./codes/course5">编程作业</a></td>
+  </tr>
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目的组织
