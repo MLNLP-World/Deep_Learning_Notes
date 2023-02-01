@@ -61,7 +61,7 @@
 ## <img src="./imgs/icon/resource.png" width="25" /> 课程资源
 
 - [吴恩达深度学习课程第一课：深度学习和神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_source=9dcc3801def980fa2c8938196ab81fea)
-- [吴恩达深度学习课程第二课：改善神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_shttps://www.bilibili.com/video/av66524657?vd_source=9dcc3801def980fa2c8938196ab81fea)
+- [吴恩达深度学习课程第二课：改善神经网络](https://www.bilibili.com/video/av66524657/?vd_source=9dcc3801def980fa2c8938196ab81fea)
 - [吴恩达深度学习课程第三课：结构机器学习项目](https://www.bilibili.com/video/av66644404?vd_source=9dcc3801def980fa2c8938196ab81fea)
 - [吴恩达深度学习课程第四课：卷积神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_shttps://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea)
 - [吴恩达深度学习课程第五课：序列模型](https://www.bilibili.com/video/av66647398?vd_source=9dcc3801def980fa2c8938196ab81fea)
@@ -110,17 +110,17 @@
 	    <td rowspan="5">第二课：改善神经网络</td>
        <td>第一周：深度学习的实用层面 </td>
 	    <td><a href="https://www.bilibili.com/video/av66524657?vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/04.png"  width="170" /></a></td>
-	    <td><a href="./pdf_notes/COURSE2-改善神经网络/第一周：深度学习的实用层面.pdf">深度学习的实用层面</a></td>
+	    <td><a href="./pdf_notes/COURSE2-改善神经网络/第一周-深度学习的实用层面.pdf">深度学习的实用层面</a></td>
 	</tr>
   <tr>
     <td>第二周：优化算法</td>
     <td><a href="https://www.bilibili.com/video/BV1V441127zE?p=15&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/05.png"  width="170" /></a></td>
-    <td><a href="./pdf_notes/COURSE2-改善神经网络/第二周：优化算法.pdf">优化算法</a></td>
+    <td><a href="./pdf_notes/COURSE2-改善神经网络/第二周-优化算法.pdf">优化算法</a></td>
   </tr>
    <tr>
     <td>第三周：超参数调试、正则化以及优化</td>
     <td><a href="https://www.bilibili.com/video/BV1V441127zE?p=25&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/07.png"  width="170" /></a></td>
-    <td><a href="./pdf_notes/COURSE2-改善神经网络/第三周：超参数调试、正则化以及优化.pdf">超参数调试、正则化以及优化</a></td>
+    <td><a href="./pdf_notes/COURSE2-改善神经网络/第三周-超参数调试、正则化以及优化.pdf">超参数调试、正则化以及优化</a></td>
   </tr>
    <tr>
     <td>课后作业</td>
@@ -214,16 +214,17 @@
 
 
 
+
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 
 感谢以下同学对本项目的组织
 
-<a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a>
+<a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
 
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
-  <a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
+  <a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a>
 
 
 
