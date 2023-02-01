@@ -194,12 +194,12 @@
   <tr>
     <td>第二周：自然语言处理与词嵌入 </td>
     <td><a href="https://www.bilibili.com/video/BV1F4411y7BA?p=13&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/14.png"  width="170" /></a></td>
-    <td><a href="./pdf_notes/COURSE5-序列模型/第二周：自然语言处理与词嵌入.pdf">自然语言处理与词嵌入</a></td>
+    <td><a href="./pdf_notes/COURSE5-序列模型/第二周-自然语言处理与词嵌入.pdf">自然语言处理与词嵌入</a></td>
   </tr>
   <tr >
        <td>第三周：序列模型和注意力机制 </td>
 	    <td><a href="https://www.bilibili.com/video/BV1F4411y7BA?p=23&vd_source=9dcc3801def980fa2c8938196ab81fea">  <img src="./imgs/cover/15.png"  width="170" /></a></td>
-	    <td><a href="./pdf_notes/COURSE5-序列模型/第三周：序列模型和注意力机制.pdf">序列模型和注意力机制</a></td>
+	    <td><a href="./pdf_notes/COURSE5-序列模型/第三周-序列模型和注意力机制.pdf">序列模型和注意力机制</a></td>
 </tr>
    <tr>
     <td>课后作业</td>
