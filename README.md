@@ -24,14 +24,15 @@
 </p>
 <div align="center">
 <p align="center">
-  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E9%A1%B9%E7%9B%AE%E5%8A%A8%E6%9C%BA">项目动机</a>/
-  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B">课程简介</a>/
-  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90">课程资源</a>/
-  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E7%AC%94%E8%AE%B0">笔记</a>/
-  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E7%BB%84%E7%BB%87%E8%80%85">组织者</a>/
-  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%B4%A1%E7%8C%AE%E8%80%85">贡献者</a>
+  <a href="#项目动机">项目动机</a>/
+  <a href="#课程简介">课程简介</a>/
+  <a href="#课程资源">课程资源</a>/
+  <a href="#笔记">笔记</a>/
+  <a href="#组织者">组织者</a>/
+  <a href="#贡献者">贡献者</a>
 </p>
 </div>
+
 
 
 
@@ -63,7 +64,7 @@
 - [吴恩达深度学习课程第一课：深度学习和神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_source=9dcc3801def980fa2c8938196ab81fea)
 - [吴恩达深度学习课程第二课：改善神经网络](https://www.bilibili.com/video/av66524657/?vd_source=9dcc3801def980fa2c8938196ab81fea)
 - [吴恩达深度学习课程第三课：结构机器学习项目](https://www.bilibili.com/video/av66644404?vd_source=9dcc3801def980fa2c8938196ab81fea)
-- [吴恩达深度学习课程第四课：卷积神经网络](https://www.bilibili.com/video/BV164411m79z/?spm_id_from=333.788.recommend_more_video.0&vd_shttps://www.bilibili.com/video/av66646276?vd_source=9dcc3801def980fa2c8938196ab81fea)
+- [吴恩达深度学习课程第四课：卷积神经网络](https://www.bilibili.com/video/av66646276/?vd_source=9dcc3801def980fa2c8938196ab81fea)
 - [吴恩达深度学习课程第五课：序列模型](https://www.bilibili.com/video/av66647398?vd_source=9dcc3801def980fa2c8938196ab81fea)
 
 ## <img src="./imgs/icon/notes.png" width="25" /> 笔记
