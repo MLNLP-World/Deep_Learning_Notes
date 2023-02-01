@@ -11,30 +11,27 @@
   <a >
        <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
   	</a>
-   	<a href="https://github.com/JoeYing1019/Machine_Learning_Notes/stargazers">
-       <img alt="stars" src="https://img.shields.io/github/stars/JoeYing1019/Machine_Learning_Notes" />
+   	<a href="https://github.com/MLNLP-World/Deep_Learning_Notes/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Deep_Learning_Notes" />
   	</a>
-  	<a href="https://github.com/JoeYing1019/Machine_Learning_Notes/fork">
-       <img alt="FORK" src="https://img.shields.io/github/forks/JoeYing1019/Machine_Learning_Notes?color=FF8000" />
+  	<a href="https://github.com/MLNLP-World/Deep_Learning_Notes/fork">
+       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Deep_Learning_Notes?color=FF8000" />
   	</a>
-    <a href="https://github.com/JoeYing1019/Machine_Learning_Notes/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/JoeYing1019/Machine_Learning_Notes?color=0088ff"/>
+    <a href="https://github.com/MLNLP-World/Deep_Learning_Notes/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/MLNLP-World/Deep_Learning_Notes?color=0088ff"/>
     </a>
     <br />
 </p>
 <div align="center">
 <p align="center">
-  <a href="#项目动机">项目动机</a>/
-  <a href="#课程简介">课程简介</a>/
-  <a href="#课程资源">课程资源</a>/
-  <a href="#笔记">笔记</a>/
-  <a href="#组织者">组织者</a>/
-  <a href="#贡献者">贡献者</a>
+  <a href="https://github.com/MLNLP-World/Deep_Learning_Notes#-%E9%A1%B9%E7%9B%AE%E5%8A%A8%E6%9C%BA">项目动机</a>/
+  <a href="https://github.com/MLNLP-World/Deep_Learning_Notes#-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B">课程简介</a>/
+  <a href="https://github.com/MLNLP-World/Deep_Learning_Notes#-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90">课程资源</a>/
+  <a href="https://github.com/MLNLP-World/Deep_Learning_Notes#-%E7%AC%94%E8%AE%B0">笔记</a>/
+  <a href="https://github.com/MLNLP-World/Deep_Learning_Notes#-%E7%BB%84%E7%BB%87%E8%80%85">组织者</a>/
+  <a href="https://github.com/MLNLP-World/Deep_Learning_Notes#-%E8%B4%A1%E7%8C%AE%E8%80%85">贡献者</a>
 </p>
 </div>
-
-
-
 
 
 
