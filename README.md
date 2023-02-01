@@ -220,12 +220,12 @@
 
 感谢以下同学对本项目的组织
 
-<a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
+<a href="https://github.com/mathgirl796"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
 
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
-  <a href="https://github.com/awake020"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a>
+  <a href="https://github.com/mathgirl796"><img src="./imgs/profile/duanran.png"  width="80" /></a><a href="https://github.com/JoeYing1019"><img src="./imgs/profile/shijue_huang.png"  width="80" /></a>
 
 
 
